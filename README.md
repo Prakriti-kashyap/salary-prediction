@@ -1,2 +1,2 @@
-# salary-prediction
-salary prediction using machine learning
+# startup funding analysis
+startup analysis using stramlit
